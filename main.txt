@@ -1,0 +1,30 @@
+backend-api/
+|-- src/                           # Source code
+|   |-- controllers/              # Request handling logic
+|   |-- models/                   # Data models
+|   |-- routes/                   # API route definitions
+|   |-- middleware/               # Custom middleware
+|   |-- services/                 # Business logic or services
+|   |-- utils/                    # Utility functions
+|
+|-- config/                        # Configuration files
+|   |-- database.js               # Database configuration
+|   |-- server.js                 # Server configuration
+|
+|-- migrations/                    # Database migration scripts
+|
+|-- tests/                         # Unit and integration tests
+|
+|-- public/                        # Publicly accessible files (if any)
+|
+|-- docs/                          # API documentation
+|
+|-- # Project changelog                           # Environment variables (local development)
+|-- .gitignore                     # Git ignore file
+|-- package.json                   # Node.js project dependencies
+|-- README.md                      # Project README
+|-- app.js                         # Entry point for the application
+|-- LICENSE                         # License file
+|-- CODE_OF_CONDUCT.md             # Code of conduct for contributors
+|-- CONTRIBUTING.md                 # Guidelines for contributing
+|-- CHANGELOG.md                   # Project changelog

@@ -1,0 +1,8 @@
+{
+  "name": "backend-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Y-Corps/Backend-API.git",
+  "author": "Y-Corps",
+  "license": "MIT"
+}
